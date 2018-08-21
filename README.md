@@ -1,3 +1,8 @@
 # azure
 
-Azure playground
+:cloud: Azure playground
+
+## Dependencies
+- Docker
+- Terraform
+- jq
